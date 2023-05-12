@@ -2,9 +2,9 @@ A week scheduler package for flutter that allows you to select scheduled time fo
 You can customize the UI completely according to your requirements.
 
 ## Screenshots
-![Sample image 1](images/sample.png "Sample Image 1")
-![Sample image 2](images/sample1.png "Sample Image 2")
-![Sample image 3](images/sample2.png "Sample Image 3")
+![Sample image 1](https://github.com/Developers-Rashail-Infotech/rashail_store_schedular/blob/main/images/sample.png "Sample Image 1")
+![Sample image 2](https://github.com/Developers-Rashail-Infotech/rashail_store_schedular/blob/main/images/sample1.png "Sample Image 2")
+![Sample image 3](https://github.com/Developers-Rashail-Infotech/rashail_store_schedular/blob/main/images/sample2.png "Sample Image 3")
 
 
 ## Preview
