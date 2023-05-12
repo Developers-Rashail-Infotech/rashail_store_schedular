@@ -3,8 +3,8 @@ You can customize the UI completely according to your requirements.
 
 ## Screenshots
 ![Sample image 1](images/sample.png "Sample Image 1")
-![Sample image 2](images/sample2.png "Sample Image 2")
-![Sample image 3](images/sample3.png "Sample Image 3")
+![Sample image 2](images/sample1.png "Sample Image 2")
+![Sample image 3](images/sample2.png "Sample Image 3")
 
 
 ## Preview
